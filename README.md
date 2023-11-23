@@ -1,2 +1,2 @@
 # Priyanshu-Rana-Data-Visual
-Data Visualise ation Crash Course
+Data Visualisation Crash Course
